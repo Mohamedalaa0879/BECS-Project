@@ -8,5 +8,5 @@ It provides clear documentation of system requirements along with comprehensive 
 - **Functional Test Cases (Excel)** – Comprehensive test coverage for validating workflows  
 
 ## 🔗 Resources
-- [BECS SRS (PDF)](#)  
-- [BECS Test Cases (Excel)](#)  
+- [SRS Document (PDF)](link_to_SRS-BECS-2007.pdf)  
+- [E-BOOK Test Cases (Excel)](link_to_E-BOOK.xlsx)  
